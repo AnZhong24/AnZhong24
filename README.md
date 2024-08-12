@@ -13,4 +13,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+--> 
+  #### Hi there 👋
+
+ 
+- 🔬 CS Bachelor's Student@Jilin University, 2021 Fall
+<!-- - ⚓ Previous internship experience at Ctrip Group
+- 🌍 Embracing diversity and exploring new horizons.
 -->
+- 🌱 Passionate about computer systems, including HPC, parallel computing, mlsys and distributed systems.
+- :computer: C, C++, CUDA, Python, Shell
+- 📫 How to reach me: via lychee0947@gmail.com
+
+
