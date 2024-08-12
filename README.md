@@ -1,5 +1,4 @@
-## Hi there 👋
-
+ 
 <!--
 **AnZhong24/AnZhong24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,15 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-  #### Hi there 👋
+  ### Hi there 👋
 
  
 - 🔬 CS Bachelor's Student@Jilin University, 2021 Fall
-<!-- - ⚓ Previous internship experience at Ctrip Group
-- 🌍 Embracing diversity and exploring new horizons.
--->
-- 🌱 Passionate about computer systems, including HPC, parallel computing, mlsys and distributed systems.
+- 🌱 Passionate about computer architecture, GPU, hardware security, and deep learning architectures
+- ✨ open with collaborations from all over the world
+- ⚡ Committed to life-long learning
 - :computer: C, C++, CUDA, Python, Shell
-- 📫 How to reach me: via lychee0947@gmail.com
+- 📫 How to reach me  lychee0947@gmail.com
 
 
