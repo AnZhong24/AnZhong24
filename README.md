@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 - 🌱 Passionate about computer architecture, GPU, hardware security, and deep learning architectures
 - ✨ open with collaborations from all over the world
 - ⚡ Committed to life-long learning
-- :computer: C, C++, CUDA, Python, Shell
-- 📫 How to reach me  lychee0947@gmail.com
+- :computer: C, C++, CUDA, Python, Shell 
 
 
