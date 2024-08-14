@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
  
 - 🔬 CS Bachelor's Student@Jilin University, 2021 Fall
-- 🌱 Passionate about computer architecture, GPU, hardware security, and deep learning architectures
-- ✨ open with collaborations from all over the world
-- ⚡ Committed to life-long learning
-- :computer: C, C++, CUDA, Python, Shell 
+- 🌱 Passionate about computer architecture, GPU, and deep learning architectures
+- ✨ open with collaborations 
+- :computer: C, C++, CUDA, Python, Shell
+- 📫 How to reach me: lychee0947@gmail.com
 
 
